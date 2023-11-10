@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+calculator/__init__.py
+calculator/core.py
+gignatov_awesomecalculator.egg-info/PKG-INFO
+gignatov_awesomecalculator.egg-info/SOURCES.txt
+gignatov_awesomecalculator.egg-info/dependency_links.txt
+gignatov_awesomecalculator.egg-info/top_level.txt
+tests/__init__.py
+tests/testscalculatortests.py
